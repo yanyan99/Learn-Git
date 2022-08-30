@@ -18,7 +18,9 @@ git init
  git reflog //记录指令
 
  git branch [branch name] //创建新branch
+ git switch -c [branch name]//创建并切换
  git checkout [branch name]//切换branch
+ git switch [branch name]//切换分支
  git merge [branch name]//和主分支合并
  git branch -d [branch name]//删除分支
  
