@@ -14,3 +14,5 @@ git init
  git reset --hard HEAD^ // ^表示回退上一个版本，^数目表示回退几次
 
  git reset --hard [具体版本号]//用于恢复版本
+
+ git reflog //记录指令
