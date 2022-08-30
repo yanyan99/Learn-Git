@@ -16,3 +16,6 @@ git init
  git reset --hard [具体版本号]//用于恢复版本
 
  git reflog //记录指令
+
+ create new branch
+ 
