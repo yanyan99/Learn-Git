@@ -24,4 +24,8 @@ git init
  git merge [branch name]//和主分支合并
  git branch -d [branch name]//删除分支
  
+<<<<<<< HEAD
  create a new line
+=======
+ create new brach
+>>>>>>> feature1
