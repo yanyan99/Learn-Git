@@ -12,3 +12,5 @@ git init
  git log --pretty=oneline //只显示修改版本
 
  git reset --hard HEAD^ // ^表示回退上一个版本，^数目表示回退几次
+
+ git reset --hard [具体版本号]//用于恢复版本
