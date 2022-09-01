@@ -1,5 +1,5 @@
-git fetch [opt]
+git fetch [origin [opt]]
 
 git merge [origin/main]
 
-git push origin [main(branch name)]
+git push [origin [main(branch name)]]
