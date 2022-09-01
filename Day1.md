@@ -30,3 +30,4 @@ git init
  git branch -d [branch name]//删除分支
  
  git push origin --delete []//删除远程分支
+ git push origin :branch_name
