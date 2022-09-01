@@ -1,3 +1,3 @@
-git fetch
+git fetch [opt]
 
-test2
+git merge [origin/main]
